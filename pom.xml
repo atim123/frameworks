@@ -6,6 +6,7 @@
     <version>GH-2.0</version>
     <packaging>pom</packaging>
     <modules>   
+        <module>system</module>
         <module>xsutils</module>
         <module>sql2.2</module>
     </modules>
